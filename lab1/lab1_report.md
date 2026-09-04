@@ -6,17 +6,8 @@ Group: ВвВТ УВБ 3.1<br>
 Author: Лампадова Мария Витальевна<br>
 Lab: Lab1<br>
 Date of create: 04.09.2026<br>
-Date of finished:University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)
-Year: 2026/2027
-Group: ВвВТ УВБ 3.1
-Author: Лампадова Мария Витальевна
-Lab: Lab1
-Date of create: 04.09.2026
 Date of finished:
 # Лабораторная работа №1. Основы работы с Docker
-
 ## Цель работы
 
 Изучить основные возможности Docker: установку и настройку Docker Desktop, работу с образами и контейнерами, запуск веб-сервера, управление контейнерами и использование томов для хранения данных.
