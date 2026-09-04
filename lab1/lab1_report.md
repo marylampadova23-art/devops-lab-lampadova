@@ -1,4 +1,12 @@
-University: [ITMO University](https://itmo.ru/ru/)
+University: [ITMO University](https://itmo.ru/ru/)<br>
+Faculty: [FICT](https://fict.itmo.ru)<br>
+Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)<br>
+Year: 2026/2027<br>
+Group: ВвВТ УВБ 3.1<br>
+Author: Лампадова Мария Витальевна<br>
+Lab: Lab1<br>
+Date of create: 04.09.2026<br>
+Date of finished:University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)
 Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)
 Year: 2026/2027
